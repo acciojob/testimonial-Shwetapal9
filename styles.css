@@ -9,11 +9,11 @@ body{
 	margin:10px;
 	border: 1px solid #f5f5f5;	
 }
-.content1 span{
+.content1 .author1{
 	display:flex;
 	justify-content:end;
 }
-.content2 span{
+.content2 .author2{
 	display:flex;
 	justify-content:end;
 }
