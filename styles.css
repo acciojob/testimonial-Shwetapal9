@@ -10,10 +10,10 @@ body{
 	border: 1px solid #f5f5f5;	
 }
 .content1 .author1{
-	display:flex;
-	justify-content:end;
+	text-align:right;
+	font-style:italic;
 }
 .content2 .author2{
-	display:flex;
-	justify-content:end;
+	text-align:right;
+	font-style:italic;
 }
